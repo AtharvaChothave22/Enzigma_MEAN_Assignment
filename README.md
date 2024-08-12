@@ -9,18 +9,6 @@ This To-Do  Application is a full-stack project developed using the MERN (MongoD
 - Responsive design with Tailwind CSS.
 - Unit tests for both frontend and backend components.
 
-## API Documentation
-
-For detailed API documentation, please refer to the following Postman link:
-
-
-
-
-## Source Code
-
-You can find the complete source code for the project in the following GitLab repository:
-
-
 
 ## Getting Started
 
@@ -32,3 +20,4 @@ You can find the complete source code for the project in the following GitLab re
 ### Installation
 
 1. Clone the repository:
+ git clone https://github.com/AtharvaChothave22/Enzigma_MEAN_Assignment.git
